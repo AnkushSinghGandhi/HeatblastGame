@@ -1,3 +1,5 @@
+0) first you have to install pygame with command "pip install pygame"
+
 1) vilgax want to invade our earth
 
 2) only ben can stop that from happening
